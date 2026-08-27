@@ -5,6 +5,7 @@ siraj_dbt:
       host: dbc-37101eca-831e.cloud.databricks.com
       http_path: /sql/1.0/warehouses/04f936abe43b34e0
       schema: default
+
       threads: 1
       type: databricks
   target: dev
